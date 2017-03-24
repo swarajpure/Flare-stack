@@ -2,6 +2,8 @@
 This Repository contains code for analyzing a flare stack
 At present a Base program to analyze the flame and get the dimensions is ready.
 
+Slack Team dlic@slack.com
+
 Phase-2: Add perspective, add in fly data
 
 Objective -1 
