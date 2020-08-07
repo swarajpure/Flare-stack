@@ -1,4 +1,7 @@
 # Flare-stack
+
+# This is my first commit
+
 This Repository contains code for analyzing a flare stack
 At present a Base program to analyze the flame and get the dimensions is ready.
 
